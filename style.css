@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding-top: 800px;
+    text-align: center;
+    font-size: 30px;
+}
+.FAV {
+    width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+
+#welcome {
+    z-index: 9;
+    position: absolute;
+    overflow: hidden;
+    height: 800px;
+    color: #FFFFFF;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0.83;
+    background: linear-gradient(#D500F9 0%, #D500F9 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+#bio {
+    padding: 50px;
+    text-align: center;
+    font-size: 42px;
+}
+#L {
+    color: black;
+}
